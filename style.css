@@ -1,17 +1,17 @@
 
 @font-face {
     font-family: "interFontRegular";
-    src: url('/assets/fonts/static/Inter-Regular.ttf');
+    src: url('./assets/fonts/static/Inter-Regular.ttf');
 }
 
 @font-face {
     font-family: "interFontExtraBold";
-    src: url('/assets/fonts/static/Inter-ExtraBold.ttf');
+    src: url('./assets/fonts/static/Inter-ExtraBold.ttf');
 }
 
 @font-face {
     font-family: "interFontBold";
-    src: url('/assets/fonts/static/Inter-Bold.ttf');
+    src: url('./assets/fonts/static/Inter-Bold.ttf');
 }
 
 * {
